@@ -56,7 +56,7 @@ class Sprite
       noStroke();
       //circle(0,0,10);
       fill(color(0,200,0,50));
-      circle(0,0,min(boxx,boxy));        //min = given 2 values, returns smaller value
+      //circle(0,0,min(boxx,boxy));        //min = given 2 values, returns smaller value
       //rect(boxx,boxy,100,200);  <-- ?? rect around dug grave
       translate(-reg.x,-reg.y);
 
