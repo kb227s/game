@@ -18,7 +18,7 @@ Boulder b;
 void setup()
 {
   size(800,600);
-  beep = new SoundFile(this,"wind.wav");
+  //beep = new SoundFile(this,"wind.wav");
   reset();
 }
 
